@@ -6,7 +6,7 @@ Data is available from Zenodo:
 - [10.5281/zenodo.3985982](http://dx.doi.org/10.5281/zenodo.3985982): 'Gold standard’ database of 1,281 BGCs linked to known secondary metabolites
 - [10.5281/zenodo.3985977](http://dx.doi.org/10.5281/zenodo.3985977): PRISM output for all 10,121 genomes analyzed
 
-Please also see (https://prism.adapsyn.com/)[https://prism.adapsyn.com/], and the tutorials there, for further details.
+Please also see [https://prism.adapsyn.com/](https://prism.adapsyn.com/), and the tutorials there, for further details.
 
 ### Details
 
